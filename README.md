@@ -17,7 +17,7 @@ Simple block template.
 
 ![](src/assets/previewMobile.png)
 
-<!-- ![](src/assets/screenshot.png) -->
+<!-- ![](/src/assets/screenshot.png) -->
 
 ### Links
 
