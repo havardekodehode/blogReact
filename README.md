@@ -15,7 +15,7 @@ Simple block template.
 
 ### Screenshot
 
-![](src/assets/previewMobile.png)
+![](/src/assets/screenshot.png)
 
 <!-- ![](/src/assets/screenshot.png) -->
 
