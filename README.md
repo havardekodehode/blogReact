@@ -21,7 +21,7 @@ Simple block template.
 
 ### Links
 
--   Live Site URL: https://main--cerulean-semifreddo-d756c7.netlify.app/profiles/1
+-   Live Site URL: https://main--cerulean-semifreddo-d756c7.netlify.app/
 
 ## My process
 
