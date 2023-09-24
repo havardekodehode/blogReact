@@ -1,0 +1,46 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    width: 100vw;
+    height: fit-content;
+    padding: 0.5rem 0rem;
+}
+
+.logo {
+}
+
+.leaf {
+    /* TODO */
+    /*
+    Animate on click, or hover
+    */
+}
+
+.ul {
+    display: inherit;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    list-style-type: none;
+    gap: 0rem;
+}
+
+.search {
+    padding: 0;
+    background: none;
+    border: none;
+    border-radius: 0;
+    outline: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: solid 0.1rem #fffcf2;
+    border-radius: 1.2rem;
+    height: 2.5rem;
+    width: 12rem;
+}
+
+.menu {
+    /* position: relative; */
+}

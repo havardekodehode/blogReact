@@ -1,0 +1,14 @@
+.menuContainer {
+    right: 0;
+    box-sizing: border-box;
+    /* width: 8rem; */
+    min-height: 10rem;
+    position: absolute;
+    display: flex;
+    padding: 0.5rem 1rem;
+    flex-direction: column;
+    background-color: #252422;
+}
+
+.subMenu {
+}

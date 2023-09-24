@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+:root {
+    /* Palette */
+    --color-1: #403d39;
+    --color-2: #252422;
+    --color-3: #eb5e28;
+
+    /* Font */
+    --font-size: 16px;
+    --font-color: #fffcf2;
+    --font-family: "Open Sans", sans-serif;
+
+    /* Typography */
+}
