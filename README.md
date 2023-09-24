@@ -11,7 +11,7 @@
 
 ## Overview
 
-Simple pokedex, using the PokeAPI display all the first gen pokemons.
+Simple block template.
 
 ### Screenshot
 
@@ -21,7 +21,7 @@ Simple pokedex, using the PokeAPI display all the first gen pokemons.
 
 ### Links
 
--   Live Site URL:
+-   Live Site URL: https://main--cerulean-semifreddo-d756c7.netlify.app/profiles/1
 
 ## My process
 
