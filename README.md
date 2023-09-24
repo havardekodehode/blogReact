@@ -1,27 +1,48 @@
-# React + TypeScript + Vite
+## Table of contents
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+-   [Overview](#overview)
+    -   [Screenshot](#screenshot)
+    -   [Links](#links)
+-   [My process](#my-process)
+    -   [Built with](#built-with)
+    -   [What I learned](#what-i-learned)
+-   [Author](#author)
+-   [Acknowledgments](#acknowledgments)
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Simple pokedex, using the PokeAPI display all the first gen pokemons.
 
-## Expanding the ESLint configuration
+### Screenshot
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+![](src/assets/previewMobile.png)
 
-- Configure the top-level `parserOptions` property like this:
+<!-- ![](src/assets/screenshot.png) -->
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+### Links
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+-   Live Site URL:
+
+## My process
+
+I put the design together in in this Figma file: https://www.figma.com/file/E6BGv3c7YJXeVLul1FPFd9/Untitled?type=design&node-id=0%3A1&mode=design&t=QIEC7Z7oHc8hrByH-1 I then put the diferrent elements into fitting HTML tags, and started styling it, for mobile.
+
+### Built with
+
+-   Semantic HTML5 markup
+-   CSS custom properties
+-   Flexbox
+-   Mobile-first workflow
+-   Vite + React + TS
+
+### What I learned
+
+Using React-router-dom
+
+## Author
+
+-   Website - [havardekodehode]("https://havardekodehode.github.io/portfolio/")
+
+## Acknowledgments
+
+Thanks to Jørgen, who assigned this task.
