@@ -25,7 +25,7 @@ Simple block template.
 
 ## My process
 
-I put the design together in in this Figma file: https://www.figma.com/file/E6BGv3c7YJXeVLul1FPFd9/Untitled?type=design&node-id=0%3A1&mode=design&t=QIEC7Z7oHc8hrByH-1 I then put the diferrent elements into fitting HTML tags, and started styling it, for mobile.
+I put the design together in in this Figma file: https://www.figma.com/file/h6d4DkJ1n4tp44lcOTrs8T/Untitled?type=design&node-id=59%3A1196&mode=design&t=g99E91wFbL56Gc5f-1 I then put the diferrent elements into fitting HTML tags, and started styling it, for mobile.
 
 ### Built with
 
