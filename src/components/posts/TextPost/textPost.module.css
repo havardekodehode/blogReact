@@ -3,7 +3,9 @@
     flex-direction: column;
     padding: 1rem;
     gap: 0.5rem;
-    border: solid var(--color-2) 2px;
+    /* border: solid var(--color-2) 2px; */
+    box-shadow: inset 0 0 210px 1px var(--color-2);
+
     margin: 0.3rem;
 }
 
